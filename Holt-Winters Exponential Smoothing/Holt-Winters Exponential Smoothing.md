@@ -94,4 +94,4 @@ The model will have three parameters, alpha planar parameter, and beta General d
 ### We plotted the expected series By predicting time series values for 48 months 	
 
 
-![DLND](https://github.com/ahmedtalaatfarhat/HoltWinters-Model-In-R/blob/master/Holt-Winters%20Exponential%20Smoothing.png)
+![DLND](https://github.com/ahmedtalaatfarhat/HoltWinters-Models-In-R/blob/master/Holt-Winters%20Exponential%20Smoothing/Holt-Winters%20Exponential%20Smoothing.png)
