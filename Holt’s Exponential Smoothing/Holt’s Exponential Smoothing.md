@@ -56,4 +56,4 @@ Where alpha represents the level parameter and beta represents the general direc
   
   ### We plotted the expected series By predicting time series values for 4 Years.
   
-  ![DLND](https://github.com/ahmedtalaatfarhat/HoltWinters-Model-In-R/blob/master/Holt%E2%80%99s%20Exponential%20Smoothing.png)
+  ![DLND](https://github.com/ahmedtalaatfarhat/HoltWinters-Models-In-R/blob/master/Holt%E2%80%99s%20Exponential%20Smoothing/Holt%E2%80%99s%20Exponential%20Smoothing.png)
