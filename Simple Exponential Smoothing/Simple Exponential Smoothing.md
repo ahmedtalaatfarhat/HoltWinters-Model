@@ -27,6 +27,6 @@ The alpha value was closer to the value. This indicates a greater correlation be
 
 ### We plotted the expected series By predicting time series values for 10 Years.
 
-![DLND](https://github.com/ahmedtalaatfarhat/HoltWinters-Model-In-R/blob/master/Simple%20Exponential%20Smoothing.png)
+![DLND](https://github.com/ahmedtalaatfarhat/HoltWinters-Models-In-R/blob/master/Simple%20Exponential%20Smoothing/Simple%20Exponential%20Smoothing.png)
 
 
