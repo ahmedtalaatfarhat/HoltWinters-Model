@@ -1,7 +1,7 @@
-# HoltWinters-Model-In-R
+# HoltWinters-Models-In-R
 
 
-There are 3 Cases for HoltWinters-Model
+There are 3 Cases for HoltWinters-Models
 
 1. Simple Exponential Smoothing
 2. Holt’s Exponential Smoothing
